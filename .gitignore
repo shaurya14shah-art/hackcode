@@ -1,0 +1,15 @@
+.build/
+HackCode.app/
+*.xcodeproj/xcuserdata/
+.DS_Store
+.swiftpm/
+.env
+.env.*
+!.env.example
+node_modules/
+venv/
+.venv/
+__pycache__/
+.DS_Store
+*.pem
+*.key
