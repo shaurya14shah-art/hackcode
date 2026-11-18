@@ -17,7 +17,7 @@ HackCode is a macOS-native SwiftUI application that provides:
 
 ## Building & Testing
 ```bash
-cd /Users/shauryashah/AG/HackCode
+cd /Users/USER/AG/HackCode
 bash build.sh          # Compile macOS bundle
 bash build.sh test     # Run all unit tests
 open HackCode.app      # Launch application
